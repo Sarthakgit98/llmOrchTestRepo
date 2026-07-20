@@ -1,1 +1,1 @@
-Sandbox to test llm orchestration
+Sandbox to test and learn llm orchestration
